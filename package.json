@@ -1,4 +1,6 @@
 {
+  "name": "create-france-launcher",
+  "version": "1.0.0",
   "description": "The launcher for the Minecraft server Create France",
   "keywords": [
     "minecraft",
