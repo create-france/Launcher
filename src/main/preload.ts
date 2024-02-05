@@ -3,7 +3,7 @@
 import { AxiosRequestConfig } from 'axios';
 import { contextBridge, ipcRenderer, IpcRendererEvent } from 'electron';
 
-export type Channels = 'ms-auth' | 'ms-authCode2AuthToken';
+export type Channels = 'ms-auth';
 
 const electronHandler = {
   ipcRenderer: {
